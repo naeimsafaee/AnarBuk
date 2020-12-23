@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b4be909-efd6-4be6-821f-9742e74caec3" name="Default" comment="" />
+    <list default="true" id="3b4be909-efd6-4be6-821f-9742e74caec3" name="Default" comment="commit project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +147,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -191,57 +191,37 @@
       <workItem from="1588496412651" duration="2446000" />
       <workItem from="1588676559029" duration="3474000" />
       <workItem from="1588699675250" duration="2480000" />
-      <workItem from="1608739003882" duration="1352000" />
+      <workItem from="1608739003882" duration="1537000" />
     </task>
+    <task id="LOCAL-00001" summary="commit project">
+      <created>1608747748119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608747748119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit project" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1588678578721">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="211" y="41" width="927" height="708" key="CommitChangelistDialog2" timestamp="1608747747952">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1588678578721" />
-    <state x="275" y="22" key="#Options" timestamp="1586455268680">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="211" y="41" width="927" height="708" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1608747747952" />
+    <state x="171" y="31" width="1024" height="737" key="SettingsEditor" timestamp="1608747867267">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="275" y="22" key="#Options/0.0.1366.728@0.0.1366.728" timestamp="1586455268680" />
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585733320045">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="171" y="31" width="1024" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1608747867267" />
+    <state x="238" y="127" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1608747767200">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585733320045" />
-    <state x="447" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586113592795">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="447" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586113592795" />
-    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1588147268192">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588147268192" />
-    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1586382870903">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586382870903" />
-    <state x="432" y="178" key="NewPhpClassDialog" timestamp="1585766685071">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="432" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1585766685071" />
-    <state x="524" y="343" key="NewPhpFileDialog" timestamp="1585773105617">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="524" y="343" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585773105617" />
-    <state x="378" y="96" width="847" height="536" key="find.popup" timestamp="1588493553964">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="378" y="96" width="847" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1588493553964" />
-    <state x="553" y="269" key="publish.login" timestamp="1588676607836">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="553" y="269" key="publish.login/0.0.1366.728@0.0.1366.728" timestamp="1588676607836" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1586896399645">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586896399645" />
+    <state x="238" y="127" width="802" height="537" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1608747767200" />
   </component>
 </project>
