@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="36727940-28b0-4195-9d48-070e10a8875f" name="naeimsafaee.ir (project level)" url="http://naeimsafaee.ir">
+        <fileTransfer host="naeimsafaee.ir" port="21" rootFolder="/AnarBukSource/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
